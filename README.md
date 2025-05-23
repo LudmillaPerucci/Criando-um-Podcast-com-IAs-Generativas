@@ -44,7 +44,7 @@ A capa foi criada utilizando uma ferramenta de **IA generativa de imagens**, a p
 - Estilo ilustrativo, criativo e estilizado.
 
 **Imagem gerada:**  
-![Capa do Data Leviosa Podcast](https://preview.reve.art/app/b1056023-bc88-4bc8-a3ea-fa3e49e3e86c)
+<img src="./Capa_Gerada_Por_IA.png" width="500" alt="Capa do Data Leviosa Podcast" />
 
 🔗 **Visualize a imagem aqui:**  
 [Clique para ver a imagem](https://preview.reve.art/app/f8426f07-593a-4593-a45d-ce4534f42add)
